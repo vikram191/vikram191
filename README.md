@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @vikram191
-- 👀 I’m interested in manual and automation testing
+- 👋 Hi, I’m Vikram Singh
+- 👀 I’m interested in manual, automation, performance and API testing
 - 🌱 I'm experienced selenium python tester
 - 💞️ I’m looking to collaborate on software testing
 - 📫 How to reach me : mail me to vikram.aiactr@gmail.com, PH: +91 - 9810869689
