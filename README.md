@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vikram Singh from New Delhi, India
+- 👋 Hi, I’m Vikram Singh from New Delhi, India.
 - 👀 I’m interested in manual, automation, performance and API testing
 - 🌱 I'm an experienced selenium python tester
 - 💞️ I’m looking to collaborate on software testing
